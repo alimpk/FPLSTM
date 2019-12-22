@@ -1,0 +1,5 @@
+# Git ignore file if LSTM project
+# ignore Xilinx projects
+xilprj/**
+# ignore temp projects
+t/**
